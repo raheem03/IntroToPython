@@ -24,13 +24,19 @@ A repository of Jupyter Notebooks to help beginners get started with Python. Als
   - Identifying nuances: functions vs methods, classes vs instances, arguments vs parameters, modules vs packages, namespaces vs scope
 
 3. Intermediate Concepts in Python
-  - Iterators and Generators, including iter and next
+  - Iterators and Generators
   - List comprehensions
   - Functional programming, including lambda functions, map, reduce, and filter
-  - Itertools and functools
   - Decorators
-  - Recursive functions
-  - More nuances including compiled vs interpreted, high- vs low-level languages
+  - More nuances including compiled vs interpreted, high- vs low-level languages, 
+  - Other important terms like lazy evaluation
 
-4. Introduction to Data Analysis (with Python)
-  - Pandas overview
+4. Introduction to Data Analysis in Python (with pandas)
+  - Overview of pandas
+  - Changing and creating directories
+  - Exploring the structure of a dataframe
+  - Sorting and subsetting a dataframe
+  - Manipulating data types
+  - Generating variables
+  - Summary statistics and tabulating data
+  - Concatenating (merging, appending) dataframes 
